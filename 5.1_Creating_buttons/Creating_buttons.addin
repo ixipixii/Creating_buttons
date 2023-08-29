@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Name>Creating_buttons</Name>
+		<Assembly>Creating_buttons\Creating_buttons.dll</Assembly>
+		<ClientId>1F06B38C-9684-4A7C-A1B1-826BB4903F7F</ClientId>
+		<FullClassName>Creating_buttons.Main</FullClassName>
+		<Text>Creating_buttons</Text>
+		<VendorId>ADSK</VendorId>
+	</AddIn>
+</RevitAddIns>
